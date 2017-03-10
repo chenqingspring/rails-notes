@@ -9,4 +9,4 @@
 * 尽可能避免使用 B < C 情况
 * includes 默认为preload(不能继续where)
 * includes 在有where时等价于eager_load(left outer join)
-* includes尽可能避免使用where
+* includes 尽可能避免使用where
